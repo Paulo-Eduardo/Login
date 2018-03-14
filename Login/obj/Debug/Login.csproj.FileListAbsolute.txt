@@ -1,0 +1,13 @@
+C:\Dev\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Dev\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Dev\Login\Login\bin\Login.dll.config
+C:\Dev\Login\Login\bin\Login.dll
+C:\Dev\Login\Login\bin\Login.pdb
+C:\Dev\Login\Login\bin\Dapper.dll
+C:\Dev\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\Login\Login\bin\MySql.Data.dll
+C:\Dev\Login\Login\bin\Dapper.xml
+C:\Dev\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\Login\Login\bin\MySql.Data.xml
+C:\Dev\Login\Login\obj\Debug\Login.dll
+C:\Dev\Login\Login\obj\Debug\Login.pdb
