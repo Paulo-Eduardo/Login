@@ -21,7 +21,7 @@
             </button>
             <asp:GridView ID="gridUsuarios" runat="server" AutoGenerateColumns="False" GridLines=None class="table" OnRowCommand="gridUsuarios_OnRowCommand">
                 <Columns>
-                    <asp:BoundField DataField="Id" HeaderText="ID" InsertVisible="False" />
+                    <asp:BoundField DataField="Id" HeaderText="ID" InsertVisible="False" Visible="False" />
                     <asp:ImageField DataImageUrlField="Image" HeaderText="User">
                         <ControlStyle Height="40px" Width="40px" />
                     </asp:ImageField>
@@ -40,7 +40,7 @@
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLabel">Create New Userreate New Userreate New Userreate New Userreate New User</h5>
+                            <h5 class="modal-title" id="exampleModalLabel">Create New User</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
